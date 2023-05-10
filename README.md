@@ -1,5 +1,7 @@
 # Matplotlib Pymaceuticals Analysis
 
+Analysis Notebook: https://nbviewer.org/github/cheyroseflammer/pharmaceutical-analysis/blob/main/pharmaceutical-analysis/pymaceuticals_starter.ipynb
+
 ## Analysis Guidelines
 ---
 * Check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
